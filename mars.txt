@@ -1,5 +1,7 @@
 Hello World
 
+This is a change made in the second folder.
+
 This is a change in my file.
 
 Mars has helicopters now.
